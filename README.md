@@ -17,3 +17,8 @@
   
   ### Social
  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+
+<div style="text-align: center;">
+    <img src="https://i.yapx.cc/WRLL5.gif" style="max-width: 50%; height: auto;">
+</div>
