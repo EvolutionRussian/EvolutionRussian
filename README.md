@@ -8,7 +8,7 @@
 
 ## 📋Languages
 
-<img align="right" src="https://www.meme-arsenal.com/memes/4039173240a0f291a76bf438ebb7d356.jpg&f=1&nofb=1" width="500">
+<img align="right" src="https://img10.reactor.cc/pics/post/NotMuwa12-Marcille-Dungeon-Meshi-Anime-8352103.gif&f=1&nofb=1" width="500">
 
 ### Backend stack 
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D?style=for-the-badge&logo=ruby&logoColor=white)
