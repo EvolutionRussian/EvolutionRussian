@@ -8,7 +8,7 @@
 
 ## 📋Languages
 
-<img align="right" src="https://th.bing.com/th/id/OIP.suKD6r2ecU2V5wvD3Y2vygAAAA?rs=1&pid=ImgDetMainhttps://img.shields.io/&f=1&nofb=1" width="500">
+<img align="right" src="https://www.meme-arsenal.com/memes/4039173240a0f291a76bf438ebb7d356.jpg&f=1&nofb=1" width="500">
 
 ### Backend stack 
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D?style=for-the-badge&logo=ruby&logoColor=white)
