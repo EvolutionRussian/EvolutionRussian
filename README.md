@@ -2,7 +2,10 @@
 <p align="center" style="color:#6495ED">
 Здарова ёпта <br /><br />
 </p>
-<img src="https://i.yapx.ru/WRLL5.gif" width="500">
+
+<div style="text-align: center;">
+    <img src="https://i.yapx.cc/WRLL5.gif" style="max-width: 100%; height: auto;">
+</div>
 
 ### 🌐Browsers
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) 
