@@ -8,7 +8,7 @@
 
 ## 📋Languages
 
-<img align="right" src="https://i.pinimg.com/originals/62/08/9e/62089ee9672198cd380b938aec5f1577.gif&f=1&nofb=1" width="50">
+<img align="right" src="https://i.pinimg.com/originals/62/08/9e/62089ee9672198cd380b938aec5f1577.gif" width="500">
 
 ### Backend stack 
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D?style=for-the-badge&logo=ruby&logoColor=white)
