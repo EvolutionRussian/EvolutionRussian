@@ -4,7 +4,7 @@
 </p>
 
 <div style="text-align: center;">
-    <img src="https://i.yapx.cc/WRLL5.gif" style="max-width: 50%; height: auto;">
+    <img src="https://i.yapx.cc/WRLL5.gif" style="max-width: 100%; height: auto;">
 </div>
 
 ### 🌐Browsers
