@@ -16,4 +16,6 @@ Hi bitches <br /><br />
  
 <a href="https://t.me/EvolutionRussian"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
+### Editor
+
 [![Kate](https://img.shields.io/badge/kate-143?style=for-the-badge&logo=kate&logoColor=black&color=black&labelColor=green)](https://www.kde.org/applications/utilities/org.kde.kate)
