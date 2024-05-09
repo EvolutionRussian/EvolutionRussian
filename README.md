@@ -5,8 +5,6 @@ Hi bitches <br /><br />
 
 
 <img align="right" src="https://i.pinimg.com/originals/62/08/9e/62089ee9672198cd380b938aec5f1577.gif" width="500">
-
-
 ## 📋Languages
  
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D?style=for-the-badge&logo=ruby&logoColor=white)
