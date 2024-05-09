@@ -2,8 +2,9 @@
 <p align="center" style="color:#6495ED">
 Hi bitches <br /><br />
 </p>
-<img align="right" src="https://i.pinimg.com/originals/62/08/9e/62089ee9672198cd380b938aec5f1577.gif" width="500">
 
+
+<img align="right" src="https://i.pinimg.com/originals/62/08/9e/62089ee9672198cd380b938aec5f1577.gif" width="500">
 
 
 ## 📋Languages
