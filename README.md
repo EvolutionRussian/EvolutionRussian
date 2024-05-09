@@ -19,3 +19,7 @@ Hi bitches <br /><br />
 ### Editor
 
 [![Kate](https://img.shields.io/badge/kate-143?style=for-the-badge&logo=kate&logoColor=black&color=black&labelColor=green)](https://www.kde.org/applications/utilities/org.kde.kate)
+
+<audio controls>
+  <source src="audio.mp3" type="audio/mpeg">
+</audio>
